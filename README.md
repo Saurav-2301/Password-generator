@@ -1,7 +1,6 @@
 #The password generator.
 A simple and modern Password Generator built using HTML, CSS, and JavaScript.
 This app allows users to generate strong, secure passwords based on selected preferences such as length, numbers, symbols, uppercase letters, and more.
-Designed for learning and practice as part of the @dot batch web development sessions.
 
 Tech Stack :-)
 
